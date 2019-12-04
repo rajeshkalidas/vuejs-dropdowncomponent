@@ -1,6 +1,6 @@
 # vuejs-examples (https://vuejs-dropdown.surge.sh)
 
-This repo contains example code which goes with the post series [Building reusable custom components with Vue.js]() on the [DesignHammer Blog](https://designhammer.com/blog).
+This repo contains dropdown example code  which is developed by Vuejs.
 
 ## Build Setup
 
@@ -17,5 +17,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
